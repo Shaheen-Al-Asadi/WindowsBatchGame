@@ -279,7 +279,7 @@ goto bar
 echo.
 echo You get bored of the bar and go outside
 echo.
-echo You notice the developer forgot to add other enviroments
+echo You notice the developer forgot to add other enviroments...
 echo.
 echo A Magical force attempts to teleport you back inside the bar!
 echo.
